@@ -33,17 +33,17 @@ if($hata != "") echo "<hr>". $hata. "<hr>";
 <center>
 <form method="post" >
 <center>
- kullanıcı ad <br>
+ KULLANICI ADI <br>
  <input id="kulad" name="kulad" type="text" placeholder="Kullanici"/><br>
- şifreniz  <br>   
+ ŞİFRE  <br>   
   <input id="pass" name="pass" type="password" placeholder="şifre"/><br>
- tekrar şifre<br>
+ TEKRAR ŞİFRE<br>
  <input id="repass" name="repass" type="password" placeholder="şifre Tekrar"/><br>
- adınız <br>
+ İSİM <br>
  <input id="isim" name="isim" type="text" placeholder="İsim"/><br>
- soyadınız <br>
+ SOYİSİM <br>
  <input id="soyisim" name="soyisim" type="text" placeholder="Soy İsim"/><br>
- email adresiniz <br>
+ EMAİL <br>
  <input id="Email" name="Email" type="email" placeholder="Email"/><br>
  </center>
  <input type="submit"  name="kaydet">
