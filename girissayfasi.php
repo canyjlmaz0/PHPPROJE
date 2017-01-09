@@ -1,0 +1,1 @@
+burada galeri resimleri olucak
